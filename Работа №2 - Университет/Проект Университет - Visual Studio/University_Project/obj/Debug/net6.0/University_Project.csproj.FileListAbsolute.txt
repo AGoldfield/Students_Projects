@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\bin\Debug\net6.0\University_Project.exe
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\bin\Debug\net6.0\University_Project.deps.json
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\bin\Debug\net6.0\University_Project.runtimeconfig.json
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\bin\Debug\net6.0\University_Project.dll
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\bin\Debug\net6.0\University_Project.pdb
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.AssemblyInfo.cs
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.dll
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\refint\University_Project.dll
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.pdb
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\University_Project.genruntimeconfig.cache
+C:\Users\admin\Desktop\Обучение Библиотека\Моделирование ПО - Библиотека\Работа №2 - Университет\Проект Университет - Visual Studio\University_Project\obj\Debug\net6.0\ref\University_Project.dll
